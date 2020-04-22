@@ -1,2 +1,6 @@
 # Algorithms_PracticeSet
-Practice Set.
+- Array
+  - Insertion Sort
+  - Selection Sort
+  - Merge Sort
+  - Rainbow Sort
