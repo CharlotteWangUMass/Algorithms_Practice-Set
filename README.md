@@ -1,2 +1,2 @@
-# Algorithms_Practice-Set
+# Algorithms_PracticeSet
 Practice Set.
