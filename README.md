@@ -1,5 +1,5 @@
 # Algorithms_PracticeSet
-- Array
+- Array (Sorting Algorithms)
   - Insertion Sort
   - Selection Sort
   - Merge Sort
